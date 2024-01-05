@@ -7,6 +7,10 @@
 
 This project automates the ingestion, transformation, and analysis of real estate data from a website, providing a streamlined process for data-driven decision-making. The pipeline, orchestrated with Apache Airflow, utilizes Amazon S3 for storage, Snowflake as the data warehouse, and PowerBI for creating insightful dashboards.
 
+## Architecture
+
+![redfine_datapipeline_arch](https://github.com/KadamAkshay5595/redfin_data_pipeline-S3-snowflake-PowerBI-Airflow-/blob/main/images/redfin.drawio.png)
+
 ## Project Structure
 
 - **airflow/**: Contains Airflow DAGs and related configuration files.
