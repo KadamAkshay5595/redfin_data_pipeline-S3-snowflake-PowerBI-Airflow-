@@ -1,6 +1,6 @@
 # redfin__dataanalytics_data_engineering_project_
 
-## Airflow [ Redfine --> AWS S3 --> Snowflake --> PowerBI ]
+## Airflow [ Redfine --> AWS S3 --> Snowflake ] --> PowerBI 
 
 
 ## Overview
